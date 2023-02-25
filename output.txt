@@ -1,0 +1,4 @@
+!!! Tinh chi phi benh nhan ngoai tru !!!
+Tong chi phi thuoc: 200
+Tong chi phi dich vu (xet nghiem,vv): 100
+Tong tat ca chi phi : 300
